@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'M Youssef Fathy Mohamed</h1>
 <h3 align="center">A passionate Flutter Mobile App developer from Egypt</h3>
-    <img src="<img src="https://raw.githubusercontent.com/fathyyoussef1310/fathyyoussef1310/main/assets/flutter_banner.png" width="100%" />" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Yousef%20Fathy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Flutter%20%7C%20Firebase%20%7C%20SQLite&descSize=18&descAlignY=55&textBg=false"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/youssef-fathy-b3b507290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/youssef-fathy-b3b507290/" height="30" width="40" /></a>
