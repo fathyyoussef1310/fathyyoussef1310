@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=fathyyoussef1310">
-    <img src="https://raw.githubusercontent.com/fathyyoussef1310/fathyyoussef1310/main/assets/flutter_banner.png" width="100%" />
+    <img src="<img src="https://raw.githubusercontent.com/fathyyoussef1310/fathyyoussef1310/main/assets/flutter_banner.png" width="100%" />" />
   </a>
 </p>
 
