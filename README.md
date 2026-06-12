@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
+<img src="<img src="https://raw.githubusercontent.com/fathyyoussef1310/fathyyoussef1310/main/assets/flutter_banner.png" width="100%" />" />
 
 ## 📌 About Me
 - Flutter Developer focused on building clean and scalable mobile applications
