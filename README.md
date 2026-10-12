@@ -13,18 +13,24 @@
 ## 👨‍💻 About Me
 
 - 📱 I'm a **Flutter Developer** passionate about building modern, responsive, and user-friendly mobile applications.
-- 🚀 I'm starting my journey toward becoming a **Full-Stack Mobile App Developer**.
-- 🟨 I'm currently learning **JavaScript** and expanding my knowledge of web and backend development.
-- 🎨 I can use **Figma** to create UI designs, explore layouts, and turn design ideas into mobile interfaces.
-- 🧠 I'm interested in clean code, app architecture, performance, and great user experiences.
+- 🚀 I'm working toward becoming a **Full-Stack Mobile App Developer**.
+- 🟨 I'm currently learning more about **JavaScript** to strengthen my web and backend development skills.
+- 🖥️ I use **Node.js and Express.js** to build backend applications and REST APIs.
+- 🗄️ I work with **MongoDB, Mongoose, and PostgreSQL** for database management.
+- 🎨 I use **Figma** to design user interfaces and turn design ideas into mobile experiences.
+- 🧠 I'm interested in clean code, API integration, app architecture, and performance.
 - 🌱 Always learning, practicing, and building projects to improve my skills.
 - 📍 Based in Egypt 🇪🇬
+
+
 
 ## 🎯 My Current Journey
 
 **Flutter → JavaScript → Backend Development → Full-Stack Mobile Development**
 
 I'm building on my Flutter experience while learning new technologies to understand the complete journey of an application, from designing the UI to developing the backend and connecting APIs.
+
+
 
 ## 🛠️ Languages and Tools
 
@@ -37,6 +43,21 @@ I'm building on my Flutter experience while learning new technologies to underst
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/>
+  </a>
+  <a href="https://mongoosejs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="35" alt="Mongoose"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/>
   </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/>
@@ -52,9 +73,6 @@ I'm building on my Flutter experience while learning new technologies to underst
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
   </a>
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++"/>
